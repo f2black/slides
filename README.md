@@ -1,17 +1,2 @@
-# 乐乐&壮壮成长手册
-- [gitpitch slides](https://github.com/f2black/family-edu/blob/master/00-gitpitch/README.md)
-- [T-1底层逻辑](https://github.com/f2black/family-edu/blob/master/01-prime/README.md)
-- [语文](https://github.com/f2black/family-edu/blob/master/02-chinese/README.md)
-- [数学](https://github.com/f2black/family-edu/blob/master/03-math/README.md)
-- [英语](https://github.com/f2black/family-edu/blob/master/04-english/README.md)
-- [书法](https://github.com/f2black/family-edu/blob/master/05-calligraphy/README.md)
-- [编程](https://github.com/f2black/family-edu/blob/master/06-programming/README.md)
-- [逻辑](https://github.com/f2black/family-edu/blob/master/07-logic/README.md)
-- [科学](https://github.com/f2black/family-edu/blob/master/08-science/README.md)
-- [人文历史](https://github.com/f2black/family-edu/blob/master/09-culture-and-history/README.md)
-- [阅读分享](https://github.com/f2black/family-edu/blob/master/94-read-and-share/README.md)
-- [投资理财](https://github.com/f2black/family-edu/blob/master/95-finance/README.md)
-- [随笔](https://github.com/f2black/family-edu/blob/master/96-essays/README.md) 
-- [工具](https://github.com/f2black/family-edu/blob/master/97-tools/README.md)
-- [乐乐](https://github.com/f2black/family-edu/blob/master/98-felix/README.md)
-- [壮壮](https://github.com/f2black/family-edu/blob/master/99-jeffrey/README.md)
+# gitpitch slides
+- 001-English
